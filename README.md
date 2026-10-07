@@ -8,4 +8,4 @@ GitHub Pages publishes the root of the `main` branch. `index.html` is the comple
 self-contained policy page; `.nojekyll` disables Jekyll processing. No build step,
 JavaScript, cookies, analytics, external fonts, or app source files are required.
 
-Contact: richardmaas1122@icloud.com
+Contact: richardm1122@gmail.com
